@@ -1,0 +1,36 @@
+HOW TO PUT THIS WEBSITE ONLINE
+==============================
+Your hosting must support PHP (almost all shared hosting does, e.g. Hostinger, GoDaddy, Bluehost, Namecheap).
+
+1. Log in to your hosting control panel and open "File Manager".
+2. Open the folder called public_html (sometimes "www" or "htdocs").
+3. Upload abhishek-portfolio.zip there and choose "Extract".
+4. Open the extracted folder and move EVERYTHING inside it (index.html, the admin, api, css, js, data, uploads, assets
+   and google-sheets folders) directly into public_html. Make sure index.html sits directly in public_html.
+5. Right-click the folders "data" and "uploads", choose Permissions, and set 755 (or 775 if saving fails).
+6. Visit yourdomain.com for the site and yourdomain.com/admin/ for the Admin Panel.
+
+FIRST LOGIN (do this immediately)
+Username: admin     Password: Admin@123
+The panel opens on "Admin password". Enter Admin@123 as the current password, optionally choose a new username, then a new
+password of at least 8 characters, and click "Update login details".
+
+SAVE CONTACT FORM MESSAGES IN GOOGLE SHEETS (one-time setup, ~3 minutes)
+1. Create a new Google Sheet at sheets.google.com.
+2. In the sheet click Extensions > Apps Script. Delete the sample code, paste everything from the file
+   google-sheets/google-apps-script.gs, and click Save.
+3. Click Deploy > New deployment > type "Web app". Execute as: Me. Who has access: Anyone. Click Deploy and approve the permissions.
+4. Copy the Web app URL (ends in /exec).
+5. In the Admin Panel open "Contact form -> Google Sheets", paste the URL, click "Save address", then "Send test row".
+   A test row should appear in your sheet. From then on every contact form message becomes a new row.
+(Until this is set up, the form falls back to opening the visitor's email app.)
+
+Tip: don't link to the admin page anywhere public, and never share your password.
+
+THE ADMIN PANEL WON'T OPEN OR LOG IN?
+- Do NOT double-click admin/index.html on your computer. The panel needs a web server with PHP, so it only works online
+  on your hosting, or locally through XAMPP (put the folder in xampp/htdocs, start Apache, then open
+  http://localhost/abhishek-portfolio/admin/ in your browser).
+- Online, the address is yourdomain.com/admin/ (with the trailing slash). If you see "404 Not Found", the admin folder
+  was not moved into public_html. If you see a page of code, your hosting does not have PHP switched on - enable PHP in the
+  hosting control panel (or ask their support).

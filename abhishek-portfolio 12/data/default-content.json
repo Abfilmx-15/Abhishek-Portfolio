@@ -1,0 +1,681 @@
+{
+ "theme": "charcoal",
+ "texts": {
+  "home_1": "Video Editor & Content Creator",
+  "home_2": "Abhishek D S",
+  "home_3": "More Than Editing. It’s Storytelling.",
+  "home_4": "I cut podcasts and talking-head videos that hold attention from the first second to the last.",
+  "home_5": "View My Work",
+  "home_6": "Let’s talk",
+  "home_7": "What I do best",
+  "home_8": "Focused on the formats where story and pacing matter most.",
+  "home_9": "Featured work",
+  "home_10": "A small selection of recent edits.",
+  "home_11": "View Full Portfolio",
+  "home_12": "Kind words from clients",
+  "home_13": "Brands I’ve worked with",
+  "home_14": "Have a story worth telling?",
+  "home_15": "Tell me about your project and I’ll reply within one working day.",
+  "home_16": "Start a project",
+  "g_foottag": "More Than Editing. It’s Storytelling.",
+  "g_copy": "© 2026 Abhishek D S. All rights reserved.",
+  "portfolio_1": "Portfolio",
+  "portfolio_2": "Podcasts, talking heads, reels and finishing work from the last two years. Select any project to see what I did on it.",
+  "portfolio_3": "All work",
+  "portfolio_4": "YouTube Long Form",
+  "portfolio_5": "Short-Form Reels",
+  "portfolio_6": "Color Grading & Sound Design",
+  "portfolio_7": "Like what you see?",
+  "portfolio_8": "Tell me about your project and I’ll reply within one working day.",
+  "portfolio_9": "Start a project",
+  "about_1": "The story behind the edits",
+  "about_2": "I started editing two years ago as a hobby, while studying electronics engineering. It began small: cutting a college event video and putting together content for my own profile.",
+  "about_3": "Electronics gave me an unexpected head start. I was used to thinking in signals, from sine waves on a bench to audio waveforms on a timeline, and I fell in love with how sound, colour and pacing shape the way people feel about a video.",
+  "about_4": "That curiosity grew into editing, sound design and colour grading, and then into a full-time career. What makes me different is that I don’t just cut clips together. I build a narrative that keeps the viewer watching until the very end.",
+  "about_5": "My mission is to help creators and brands turn raw, unorganized footage into polished stories that grow their audience.",
+  "about_6": "My journey so far",
+  "about_7": "The milestones that took me from a college project to a full-time career.",
+  "about_8": "Started editing as a hobby",
+  "about_9": "Edited a college event video and my own profile content while studying electronics engineering.",
+  "about_10": "First paid client",
+  "about_11": "Turned the hobby into paid work for the first time.",
+  "about_12": "Crossed 100 edited videos",
+  "about_13": "Built a steady workflow across podcasts and talking-head videos.",
+  "about_14": "Started managing full channels",
+  "about_15": "Moved from single edits to handling complete channel content.",
+  "about_16": "Reached 200+ videos and 50+ clients",
+  "about_17": "Now working with creators, brands and social media pages.",
+  "about_18": "Core skills",
+  "about_19": "What I use every day to shape a story.",
+  "about_20": "Let’s tell your story",
+  "about_21": "Share your footage and your goals, and I’ll reply within one working day.",
+  "about_22": "Start a project",
+  "services_1": "Services",
+  "services_2": "From a single podcast episode to a full social media presence, here is how I can help turn your footage into stories people finish watching.",
+  "services_3": "All prices are in US dollars. Final quotes depend on the length and requirements of your project.",
+  "services_4": "Not sure which service fits?",
+  "services_5": "Tell me about your content and goals, and I’ll suggest the right option within one working day.",
+  "services_6": "Discuss Your Project",
+  "contact_1": "Contact",
+  "contact_2": "Have an editing or channel management project in mind? Reach out and let’s talk about it.",
+  "contact_3": "Name",
+  "contact_4": "Email",
+  "contact_5": "Project type",
+  "contact_6": "Budget",
+  "contact_7": "Message",
+  "contact_8": "Send message",
+  "contact_9": "Email",
+  "contact_10": "WhatsApp",
+  "contact_12": "Find me online"
+ },
+ "meta": {
+  "home_1": {
+   "p": "home",
+   "g": "Abhishek D S",
+   "k": "Paragraph"
+  },
+  "home_2": {
+   "p": "home",
+   "g": "Abhishek D S",
+   "k": "Heading"
+  },
+  "home_3": {
+   "p": "home",
+   "g": "Abhishek D S",
+   "k": "Paragraph"
+  },
+  "home_4": {
+   "p": "home",
+   "g": "Abhishek D S",
+   "k": "Paragraph"
+  },
+  "home_5": {
+   "p": "home",
+   "g": "Abhishek D S",
+   "k": "Button text"
+  },
+  "home_6": {
+   "p": "home",
+   "g": "Abhishek D S",
+   "k": "Button text"
+  },
+  "home_7": {
+   "p": "home",
+   "g": "What I do best",
+   "k": "Heading"
+  },
+  "home_8": {
+   "p": "home",
+   "g": "What I do best",
+   "k": "Paragraph"
+  },
+  "home_9": {
+   "p": "home",
+   "g": "Featured work",
+   "k": "Heading"
+  },
+  "home_10": {
+   "p": "home",
+   "g": "Featured work",
+   "k": "Paragraph"
+  },
+  "home_11": {
+   "p": "home",
+   "g": "Featured work",
+   "k": "Button text"
+  },
+  "home_12": {
+   "p": "home",
+   "g": "Kind words from clients",
+   "k": "Heading"
+  },
+  "home_13": {
+   "p": "home",
+   "g": "Brands I’ve worked with",
+   "k": "Heading"
+  },
+  "home_14": {
+   "p": "home",
+   "g": "Have a story worth telling?",
+   "k": "Heading"
+  },
+  "home_15": {
+   "p": "home",
+   "g": "Have a story worth telling?",
+   "k": "Paragraph"
+  },
+  "home_16": {
+   "p": "home",
+   "g": "Have a story worth telling?",
+   "k": "Button text"
+  },
+  "portfolio_1": {
+   "p": "portfolio",
+   "g": "Portfolio",
+   "k": "Heading"
+  },
+  "portfolio_2": {
+   "p": "portfolio",
+   "g": "Portfolio",
+   "k": "Paragraph"
+  },
+  "portfolio_3": {
+   "p": "portfolio",
+   "g": "Portfolio",
+   "k": "Button text"
+  },
+  "portfolio_4": {
+   "p": "portfolio",
+   "g": "Portfolio",
+   "k": "Button text"
+  },
+  "portfolio_5": {
+   "p": "portfolio",
+   "g": "Portfolio",
+   "k": "Button text"
+  },
+  "portfolio_6": {
+   "p": "portfolio",
+   "g": "Portfolio",
+   "k": "Button text"
+  },
+  "portfolio_7": {
+   "p": "portfolio",
+   "g": "Like what you see?",
+   "k": "Heading"
+  },
+  "portfolio_8": {
+   "p": "portfolio",
+   "g": "Like what you see?",
+   "k": "Paragraph"
+  },
+  "portfolio_9": {
+   "p": "portfolio",
+   "g": "Like what you see?",
+   "k": "Button text"
+  },
+  "about_1": {
+   "p": "about",
+   "g": "The story behind the edits",
+   "k": "Heading"
+  },
+  "about_2": {
+   "p": "about",
+   "g": "The story behind the edits",
+   "k": "Paragraph"
+  },
+  "about_3": {
+   "p": "about",
+   "g": "The story behind the edits",
+   "k": "Paragraph"
+  },
+  "about_4": {
+   "p": "about",
+   "g": "The story behind the edits",
+   "k": "Paragraph"
+  },
+  "about_5": {
+   "p": "about",
+   "g": "section",
+   "k": "Paragraph"
+  },
+  "about_6": {
+   "p": "about",
+   "g": "My journey so far",
+   "k": "Heading"
+  },
+  "about_7": {
+   "p": "about",
+   "g": "My journey so far",
+   "k": "Paragraph"
+  },
+  "about_8": {
+   "p": "about",
+   "g": "My journey so far",
+   "k": "Heading"
+  },
+  "about_9": {
+   "p": "about",
+   "g": "My journey so far",
+   "k": "Paragraph"
+  },
+  "about_10": {
+   "p": "about",
+   "g": "My journey so far",
+   "k": "Heading"
+  },
+  "about_11": {
+   "p": "about",
+   "g": "My journey so far",
+   "k": "Paragraph"
+  },
+  "about_12": {
+   "p": "about",
+   "g": "My journey so far",
+   "k": "Heading"
+  },
+  "about_13": {
+   "p": "about",
+   "g": "My journey so far",
+   "k": "Paragraph"
+  },
+  "about_14": {
+   "p": "about",
+   "g": "My journey so far",
+   "k": "Heading"
+  },
+  "about_15": {
+   "p": "about",
+   "g": "My journey so far",
+   "k": "Paragraph"
+  },
+  "about_16": {
+   "p": "about",
+   "g": "My journey so far",
+   "k": "Heading"
+  },
+  "about_17": {
+   "p": "about",
+   "g": "My journey so far",
+   "k": "Paragraph"
+  },
+  "about_18": {
+   "p": "about",
+   "g": "Core skills",
+   "k": "Heading"
+  },
+  "about_19": {
+   "p": "about",
+   "g": "Core skills",
+   "k": "Paragraph"
+  },
+  "about_20": {
+   "p": "about",
+   "g": "Let’s tell your story",
+   "k": "Heading"
+  },
+  "about_21": {
+   "p": "about",
+   "g": "Let’s tell your story",
+   "k": "Paragraph"
+  },
+  "about_22": {
+   "p": "about",
+   "g": "Let’s tell your story",
+   "k": "Button text"
+  },
+  "services_1": {
+   "p": "services",
+   "g": "Services",
+   "k": "Heading"
+  },
+  "services_2": {
+   "p": "services",
+   "g": "Services",
+   "k": "Paragraph"
+  },
+  "services_3": {
+   "p": "services",
+   "g": "Note under the service cards",
+   "k": "Paragraph"
+  },
+  "services_4": {
+   "p": "services",
+   "g": "Not sure which service fits?",
+   "k": "Heading"
+  },
+  "services_5": {
+   "p": "services",
+   "g": "Not sure which service fits?",
+   "k": "Paragraph"
+  },
+  "services_6": {
+   "p": "services",
+   "g": "Not sure which service fits?",
+   "k": "Button text"
+  },
+  "contact_1": {
+   "p": "contact",
+   "g": "Contact",
+   "k": "Heading"
+  },
+  "contact_2": {
+   "p": "contact",
+   "g": "Contact",
+   "k": "Paragraph"
+  },
+  "contact_3": {
+   "p": "contact",
+   "g": "Form labels and button",
+   "k": "Text"
+  },
+  "contact_4": {
+   "p": "contact",
+   "g": "Form labels and button",
+   "k": "Text"
+  },
+  "contact_5": {
+   "p": "contact",
+   "g": "Form labels and button",
+   "k": "Text"
+  },
+  "contact_6": {
+   "p": "contact",
+   "g": "Form labels and button",
+   "k": "Text"
+  },
+  "contact_7": {
+   "p": "contact",
+   "g": "Form labels and button",
+   "k": "Text"
+  },
+  "contact_8": {
+   "p": "contact",
+   "g": "Form labels and button",
+   "k": "Button text"
+  },
+  "contact_9": {
+   "p": "contact",
+   "g": "Contact details headings",
+   "k": "Heading"
+  },
+  "contact_10": {
+   "p": "contact",
+   "g": "Contact details headings",
+   "k": "Heading"
+  },
+  "contact_12": {
+   "p": "contact",
+   "g": "Contact details headings",
+   "k": "Heading"
+  }
+ },
+ "images": {
+  "profile": "assets/profile-placeholder.svg",
+  "about": "assets/profile-placeholder.svg"
+ },
+ "contact": {
+  "email": "dsabhishek76@gmail.com",
+  "whatsapp": "",
+  "instagram": "https://www.instagram.com/abfilmx_/",
+  "youtube": "",
+  "x": ""
+ },
+ "stats": [
+  {
+   "n": 200,
+   "suffix": "+",
+   "dec": 0,
+   "label": "Videos edited"
+  },
+  {
+   "n": 30,
+   "suffix": "+",
+   "dec": 0,
+   "label": "Clients and brands"
+  },
+  {
+   "n": 2,
+   "suffix": "+",
+   "dec": 0,
+   "label": "Years of experience"
+  },
+  {
+   "n": 4.9,
+   "suffix": "",
+   "dec": 1,
+   "label": "Average rating"
+  }
+ ],
+ "services": [
+  {
+   "icon": "mic",
+   "title": "Podcast Video Editing",
+   "short": "Clean cuts, tight pacing and multi-cam switching for long conversations.",
+   "desc": "Professional editing of long-form podcast episodes, interviews and conversations, with clean cuts, smooth transitions, engaging pacing and polished visuals.",
+   "bullets": [
+    "Long-form episodes and interviews",
+    "Clean cuts and smooth transitions",
+    "Engaging pacing and polished visuals"
+   ],
+   "pre": "Starting at",
+   "price": "$70",
+   "per": "per episode",
+   "cta": "Let’s Work Together"
+  },
+  {
+   "icon": "phone",
+   "title": "Short-Form Talking-Head Video Editing",
+   "short": "Jump cuts, captions and b-roll that keep the speaker front and centre.",
+   "desc": "Fast-paced vertical edits for Instagram Reels, YouTube Shorts and TikTok, with dynamic cuts, engaging captions, smooth transitions and visual enhancements.",
+   "bullets": [
+    "Reels, Shorts and TikTok formats",
+    "Dynamic cuts and engaging captions",
+    "Smooth transitions and visual enhancements"
+   ],
+   "pre": "Ranges from",
+   "price": "$8 – $23",
+   "per": "per video, depending on complexity and requirements",
+   "cta": "Discuss Your Project"
+  },
+  {
+   "icon": "sliders",
+   "title": "Color Grading and Sound Design",
+   "short": "Vertical edits built to stop the scroll and drive watch time.",
+   "desc": "Professional colour correction, cinematic colour grading, audio cleanup and sound mixing to give your videos a polished, high-quality finish.",
+   "bullets": [
+    "Colour correction and cinematic grading",
+    "Audio cleanup",
+    "Sound mixing"
+   ],
+   "pre": "Starting at",
+   "price": "$15",
+   "per": "per video, depending on project requirements",
+   "cta": "Let’s Work Together"
+  },
+  {
+   "icon": "calendar",
+   "title": "Complete Social Media Management",
+   "short": "Consistent grading and clear audio so every video looks and sounds finished.",
+   "desc": "An end-to-end service for creators, personal brands and businesses, covering content planning, video editing, creative post design, captions, scheduling, publishing and ongoing management through customized monthly packages.",
+   "bullets": [
+    "Content planning and scheduling",
+    "Video editing and creative post design",
+    "Captions, publishing and ongoing management"
+   ],
+   "pre": "Pricing",
+   "price": "On request",
+   "per": "customized monthly packages",
+   "cta": "Request Pricing"
+  }
+ ],
+ "projects": [
+  {
+   "cat": "yt",
+   "title": "Founder Stories, Ep. 12",
+   "desc": "Multi-cam podcast edit with tight pacing and chapter markers.",
+   "detail": "Cut three hours of raw two-camera conversation into a 48-minute episode. Built cutaways, cleaned the audio, added chapter markers and a cold open that hooks viewers in the first ten seconds.",
+   "img": "assets/thumbs/p01.svg",
+   "featured": true
+  },
+  {
+   "cat": "yt",
+   "title": "The Creator Economy Talk",
+   "desc": "Panel edit with clean camera switching and branded lower thirds.",
+   "detail": "Edited a four-person panel with smooth camera switching, speaker name graphics and a pacing pass that kept the energy up for the full runtime.",
+   "img": "assets/thumbs/p02.svg",
+   "featured": true
+  },
+  {
+   "cat": "yt",
+   "title": "Why Most Launches Fail",
+   "desc": "Talking-head edit with jump cuts, captions and b-roll.",
+   "detail": "Turned a single-camera talking-head recording into a lively video using jump cuts, animated captions, b-roll and sound effects placed to support each point.",
+   "img": "assets/thumbs/p03.svg",
+   "featured": true
+  },
+  {
+   "cat": "yt",
+   "title": "Course Intro Series",
+   "desc": "Intro videos shaped into one consistent, polished series.",
+   "detail": "Created a repeatable edit style for a course series, with matching intros, titles and transitions so every lesson feels part of the same product.",
+   "img": "assets/thumbs/p04.svg",
+   "featured": true
+  },
+  {
+   "cat": "reel",
+   "title": "Brand Reel Spring",
+   "desc": "Fast vertical edit with beat-synced cuts and animated captions.",
+   "detail": "Built a 20-second vertical reel with cuts timed to the music, bold animated captions and a strong first frame to stop the scroll.",
+   "img": "assets/thumbs/p05.svg",
+   "featured": true
+  },
+  {
+   "cat": "reel",
+   "title": "Product Story Cutdown",
+   "desc": "Cut a two-minute brand film down to a 30-second reel.",
+   "detail": "Rebuilt a longer brand film for vertical platforms, keeping the story and the call to action while trimming everything else.",
+   "img": "assets/thumbs/p06.svg",
+   "featured": true
+  },
+  {
+   "cat": "reel",
+   "title": "Podcast Clips Pack",
+   "desc": "Ten ready-to-post clips pulled from one long episode.",
+   "detail": "Picked the strongest moments from a full episode and delivered ten captioned clips, each with its own hook and clean ending.",
+   "img": "assets/thumbs/p07.svg",
+   "featured": false
+  },
+  {
+   "cat": "reel",
+   "title": "Creator Tips Shorts",
+   "desc": "Punchy talking-head shorts with bold on-screen text.",
+   "detail": "Edited a batch of short tips videos with fast pacing, large on-screen text and consistent branding across the whole set.",
+   "img": "assets/thumbs/p08.svg",
+   "featured": false
+  },
+  {
+   "cat": "cg",
+   "title": "Warm Studio Grade",
+   "desc": "Consistent cinematic grade across a full interview series.",
+   "detail": "Graded an interview series to one warm, natural look, matching skin tones and exposure across different shooting days.",
+   "img": "assets/thumbs/p09.svg",
+   "featured": false
+  },
+  {
+   "cat": "cg",
+   "title": "Podcast Audio Rescue",
+   "desc": "Removed room echo and background noise, then levelled voices.",
+   "detail": "Cleaned noisy recordings by reducing echo and hum, evening out the voice levels and finishing with a clear, broadcast-ready mix.",
+   "img": "assets/thumbs/p10.svg",
+   "featured": false
+  },
+  {
+   "cat": "cg",
+   "title": "Documentary Sound Mix",
+   "desc": "Layered music, ambience and dialogue into a balanced mix.",
+   "detail": "Mixed dialogue, ambient sound and music so every layer sits clearly, with dips and swells that follow the story.",
+   "img": "assets/thumbs/p11.svg",
+   "featured": false
+  },
+  {
+   "cat": "cg",
+   "title": "Skin Tone Match",
+   "desc": "Matched footage from three cameras to one natural look.",
+   "detail": "Corrected and matched footage from three different cameras so skin tones, contrast and colour stayed consistent in every shot.",
+   "img": "assets/thumbs/p12.svg",
+   "featured": false
+  }
+ ],
+ "testimonials": [
+  {
+   "quote": "Abhishek turned three hours of raw conversation into an episode people finish. Our average watch time went up within a month.",
+   "name": "Sample Client",
+   "role": "Podcast host"
+  },
+  {
+   "quote": "Fast, careful and easy to work with. He understood our tone straight away and the edits needed almost no revisions.",
+   "name": "Sample Client",
+   "role": "Brand manager"
+  },
+  {
+   "quote": "My talking-head videos finally feel professional. The pacing and captions made a visible difference to engagement.",
+   "name": "Sample Client",
+   "role": "Content creator"
+  }
+ ],
+ "brands": [
+  "Brand One",
+  "Studio Nova",
+  "The Daily Talk",
+  "Pulse Media",
+  "Northwind",
+  "Orbit Pods",
+  "Frame & Co"
+ ],
+ "experience": [
+  {
+   "label": "Creative journey",
+   "role": "Video Editor and Visual Storyteller",
+   "title": "Creative Journey",
+   "desc": "A passion for storytelling that shows up in cinematic editing, podcast editing, short-form content and the creation of engaging visual experiences.",
+   "chips": [
+    "Storytelling",
+    "Cinematic editing",
+    "Podcast editing",
+    "Short-form content"
+   ],
+   "current": false
+  },
+  {
+   "label": "Brands and creators",
+   "role": "Collaboration across projects and industries",
+   "title": "33+ Brands & Content Creators",
+   "desc": "I’ve collaborated with 33+ brands and content creators across different projects and industries, adapting to each one’s brand identity, storytelling style and content requirements.",
+   "chips": [
+    "Different brand identities",
+    "Different storytelling styles",
+    "Different content requirements"
+   ],
+   "current": false
+  },
+  {
+   "label": "Digital marketing agency",
+   "role": "Video editing, graphic design, content creation and social media creatives",
+   "title": "Shulin Studios",
+   "desc": "At Shulin Studios, a digital marketing agency, I worked on video editing, graphic design, content creation and social media creatives for various brands and campaigns.",
+   "chips": [
+    "Video editing",
+    "Graphic design",
+    "Content creation",
+    "Social media creatives"
+   ],
+   "current": false
+  },
+  {
+   "label": "Experience",
+   "role": "Social media designs and video content",
+   "title": "Tetris Innovation",
+   "desc": "At Tetris Innovation I created social media designs and video content, while developing my skills in visual communication and digital content production.",
+   "chips": [
+    "Social media designs",
+    "Video content",
+    "Visual communication",
+    "Digital content production"
+   ],
+   "current": false
+  },
+  {
+   "label": "Current experience",
+   "role": "Funda Hudugi content",
+   "title": "Storyhaul Media — Funda Hudugi",
+   "desc": "I currently work at Storyhaul Media on Funda Hudugi content, focusing on video editing, storytelling and creating engaging content for digital audiences.",
+   "chips": [
+    "Video editing",
+    "Storytelling",
+    "Content for digital audiences"
+   ],
+   "current": true
+  }
+ ]
+}

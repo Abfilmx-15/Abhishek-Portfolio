@@ -1,0 +1,26 @@
+.s-hero{max-width:1200px;margin:0 auto;padding:150px clamp(20px,5vw,40px) 40px}
+.s-hero h1{font-size:clamp(3rem,7vw,5.4rem);font-weight:800}
+.s-hero p{color:var(--muted);max-width:58ch;margin-top:18px;font-size:1.1rem}
+.s-wrap{max-width:1200px;margin:0 auto;padding:30px clamp(20px,5vw,40px) 20px}
+.svc-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:26px}
+.scard{display:flex;flex-direction:column;padding:clamp(26px,4vw,40px);background:var(--surface);border-radius:24px;opacity:0;transform:translateY(34px);filter:blur(6px);transition:opacity .9s var(--ease),transform .9s var(--ease),filter .9s var(--ease),box-shadow .5s var(--ease),background .4s}
+.scard.in{opacity:1;transform:none;filter:none}
+.scard.in:hover{transform:translateY(-8px);background:var(--surface-2);box-shadow:0 24px 56px -16px rgba(var(--a1-rgb),.5)}
+.scard:nth-child(even).in:hover{box-shadow:0 24px 56px -16px rgba(var(--a2-rgb),.55)}
+.scard svg{width:54px;height:54px;fill:none;stroke:var(--orange);stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round;margin-bottom:22px}
+.scard:nth-child(even) svg{stroke:var(--blue)}
+.scard h2{font-size:clamp(1.4rem,2.6vw,1.8rem);font-weight:800;margin-bottom:14px}
+.sdesc{color:var(--muted);margin-bottom:20px}
+.scard ul{list-style:none;display:grid;gap:10px;margin-bottom:28px}
+.scard li{position:relative;padding-left:24px;font-weight:500;font-size:.97rem}
+.scard li::before{content:"";position:absolute;left:0;top:.5em;width:9px;height:9px;border-radius:50%;background:var(--orange);box-shadow:0 0 10px rgba(var(--a1-rgb),.7)}
+.scard:nth-child(even) li::before{background:var(--blue);box-shadow:0 0 10px rgba(var(--a2-rgb),.7)}
+.sprice{margin-top:auto;padding:20px 0 24px;border-top:1px solid rgba(255,255,255,.1);display:grid;gap:2px}
+.sprice span{color:var(--muted);font-size:.92rem;font-weight:600}
+.sprice b{font-family:var(--head);font-size:clamp(2rem,4vw,2.8rem);font-weight:800;line-height:1.1;color:var(--orange)}
+.scard:nth-child(even) .sprice b{color:var(--blue)}
+.sprice small{color:var(--muted);font-size:.92rem}
+.scard .btn{text-align:center;align-self:stretch}
+.s-note{color:var(--muted);font-size:.92rem;margin-top:26px;text-align:center}
+@media(max-width:860px){.svc-grid{grid-template-columns:1fr}.s-hero{padding-top:120px}}
+@media(prefers-reduced-motion:reduce){.scard{opacity:1;transform:none;filter:none}}
